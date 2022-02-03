@@ -1,4 +1,4 @@
-##  Olá, eu sou a Ana Paula Medeiros 
+##  Olá, eu sou a Ana Paula De Medeiros 
 
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas
 - 📫 anamedeiros4866@gmail.com
